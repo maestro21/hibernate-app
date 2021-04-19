@@ -13,6 +13,6 @@
         <property name="show_sql">true</property>
         <property name="current_session_context_class">thread</property>
 
-        <mapping class="com.flamexander.hibernate.crud.SimpleItem"/>
+        <mapping class="com.flamexander.hibernate.product.Product"/>
     </session-factory>
 </hibernate-configuration>
